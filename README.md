@@ -23,9 +23,9 @@ This challenge consists of 20 problems and they have 100, 150, 200, 250, 300, 35
 – The maximum number of team members is Four.
 
 > PARTICIPATION</br>
-– Participants can use any tool (No Limitation)</br>
-– You can write answer-sheet in English or Korean</br>
-– Sharing answers or codes is not permitted
+– Participants can use any tool. (No Limitation)</br>
+– You can write answer-sheet in English or Korean.</br>
+– Sharing answers or codes is not permitted.
 
 ## 🎉 Result
 This is the final score and ranking of the top 5 teams.
@@ -70,7 +70,7 @@ We do not provide <strong>source codes</strong> and <strong>image files</strong>
 | 202 | <strong>[Reconstruct RAID](./writeup/[LuckyVicky][202].pdf)</strong> | Raid | 200 | Juho Heo |
 | 203 | <strong>[Where did the data go](./writeup/[LuckyVicky][203].pdf)</strong> | Dataleak | 170 |  Eungchang Lee, Hyun Yi |
 | 204 | <strong>[Find & Insert Resolution](./writeup/[LuckyVicky][204].pdf)</strong> | Standard, Encoding_parameter | 200 | Eungchang Lee |
-| 205 | <strong>[Analyze Drone Log File](./writeup/[LuckyVicky][205].pdf)</strong> | Drone, Log_analysis | 250 | Eungchang Lee |
+| 205 | <strong>[Analyze Drone Log File](./writeup/[LuckyVicky][205].pdf)</strong> | Drone, Log_analysis | 200 | Eungchang Lee |
 | 206 | <strong>[Analyze Drone File](./writeup/[LuckyVicky][206].pdf)</strong> | Drone, Binary_analysis, Decryption | 200 | Dongkyu Lee |
 | 207 | <strong>[Maze of Traffic](./writeup/[LuckyVicky][207].pdf)</strong> | Network, Dataleak | 200 | Juho Heo |
 | 208 | <strong>[Find the cryptocurrency wallet password](./writeup/[LuckyVicky][208].pdf)</strong> | Wallet, Password | 200 | All |
@@ -85,6 +85,8 @@ We do not provide <strong>source codes</strong> and <strong>image files</strong>
 
 ## ⌛️ 300-points problems
 
+| No | Problems | Keyword | Score | Main Author |
+|----|----------|---------|-------|-------------|
 | 301 | <strong>[App Sleuth](./writeup/[LuckyVicky][301].pdf)</strong> | Android, Reversing, Misc | 300 | Dongkyu Lee |
 | 302 | <strong>[Android Malicious App](./writeup/[LuckyVicky][302].pdf)</strong> | Android | 300 | Dongkyu Lee |
 | 303 | <strong>[RealmDB Record Recovery](./writeup/[LuckyVicky][303].pdf)</strong> | Realmdb | 210 | Hyun Yi |
@@ -92,6 +94,8 @@ We do not provide <strong>source codes</strong> and <strong>image files</strong>
 
 ## 🚀 350-points problems
 
+| No | Problems | Keyword | Score | Main Author |
+|----|----------|---------|-------|-------------|
 | 351 | <strong>[Tracing the Data Breach](./writeup/[LuckyVicky][351].pdf)</strong> | Dataleak | 350 | All |
 
 
