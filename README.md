@@ -17,14 +17,14 @@ Hosted by the National Intelligence Service(NIS), the Digital Forensics Challeng
 ## ⛳️ Description
 This challenge consists of 20 problems and they have 100, 150, 200, 250, 300, 350. Unlike last year, this time the questions were released all at once, and the deadline was October 8th. There is no limit to the number of submissions within the due date, but the last submission will be graded. And there is a disadvantage when submitting after the due date.
 
-> QUALIFICATION
-– Anyone interested in Digital Forensics.
-– Participants can register individually or as a team.
+> QUALIFICATION</br>
+– Anyone interested in Digital Forensics.</br>
+– Participants can register individually or as a team.</br>
 – The maximum number of team members is Four.
 
-> PARTICIPATION
-– Participants can use any tool (No Limitation)
-– You can write answer-sheet in English or Korean
+> PARTICIPATION</br>
+– Participants can use any tool (No Limitation)</br>
+– You can write answer-sheet in English or Korean</br>
 – Sharing answers or codes is not permitted
 
 ## 🎉 Result
@@ -37,7 +37,7 @@ To check the scores of more teams, access the [rank page](https://dfchallenge.or
 |🥈  | <strong>Dofarming</strong> | 3495 | Korea (South) |
 |🥉  | <strong>King_Baht_Zoo</strong> | 3200 | Korea (South) |
 |4   | <strong>YeolGeoBul</strong> | 3185 | Korea (South) |
-|5   | <strongbi0s</strong> | 2945 | India |
+|5   | <strong>bi0s</strong> | 2945 | India |
 
 ## ⚔️ WriteUp
 
